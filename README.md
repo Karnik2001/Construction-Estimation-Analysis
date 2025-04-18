@@ -54,6 +54,7 @@ The notebook walks through a full end-to-end data science process, including:
 
 - Linear Regression achieved a reasonably strong **R² Score**.
 - KNN Regression provided visually tight predictions in scatterplots.
+- Quantile regression identified high-end budget boundaries — useful for contingency planning.
 - Correlation analysis confirmed that **Material and Labor costs** are the most significant drivers.
 
 ## Citations
@@ -65,3 +66,5 @@ The notebook walks through a full end-to-end data science process, including:
  https://www.statology.org/correlation-matrix-python/
 
  https://www.statology.org/principal-components-regression-in-python/
+
+ https://www.statology.org/quantile-regression-in-python/
