@@ -40,6 +40,7 @@ The notebook walks through a full end-to-end data science process, including:
   
 #### 🧮 StatsModels (OLS + Quantile Regression)
 - Used `statsmodels.api.OLS` for statistical insight into coefficients
+- Performed quantile regression to estimate upper-bound costs (90th percentile)
 - Useful for understanding worst-case or premium budget scenarios
 
 #### 🧠 K-Nearest Neighbors (KNN) Regression
