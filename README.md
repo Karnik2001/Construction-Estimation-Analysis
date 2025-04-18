@@ -11,9 +11,7 @@ Accurate construction cost estimation is crucial for:
 
 Traditional methods are often manual or based on rough heuristics. This project demonstrates how **data science and regression modeling** can improve transparency, accuracy, and efficiency in construction planning.
 
-## 📊 What’s in the Notebook?
-
-The notebook walks through a full end-to-end data science process, including:
+## 📊 Steps in the analysis : 
 
 ### 1. 📥 Data Collection & Cleaning
 - Dataset loaded from CSV (`construction_estimates.csv`)
